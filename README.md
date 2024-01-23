@@ -9,15 +9,15 @@ TrashTrack is an advanced open-source project designed to revolutionize waste ma
 • This feature facilitates proactive waste management by allowing authorities to allocate resources efficiently based on current demand.
 
 ### Alerts and Notifications:
-• Integrated alerting mechanisms provide timely notifications to waste management teams and relevant stakeholders.
+• Integrated alerting mechanisms provide timely notifications to waste management teams and relevant stakeholders.<br>
 • Prevent overflows and optimize collection schedules, reducing the risk of environmental hazards and improving the overall efficiency of waste collection processes.
 
 ### User-Friendly Interface:
-• TrashTrack boasts a user-friendly interface that makes it easy for users to view and contribute to waste tracking data.
+• TrashTrack boasts a user-friendly interface that makes it easy for users to view and contribute to waste tracking data.<br>
 • Citizens can actively participate by reporting bin status or suggesting optimal collection times, fostering a sense of community engagement in waste management efforts.
 
 ### Environmental Impact:
-• The project emphasizes the crucial role of timely waste disposal in minimizing adverse environmental impact.
+• The project emphasizes the crucial role of timely waste disposal in minimizing adverse environmental impact.<br>
 • By preventing overflows and optimizing collection schedules, TrashTrack contributes to a cleaner, healthier environment while promoting sustainable waste management practices.
 
 ## • Softwares needed:
