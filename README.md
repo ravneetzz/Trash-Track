@@ -5,7 +5,7 @@ TrashTrack is an advanced open-source project designed to revolutionize waste ma
 ## Key Features:
 
 ### Real-Time Monitoring:
-• TrashTrack employs cutting-edge technologies to enable real-time monitoring of waste bin levels, ensuring up-to-the-minute data on fill status.
+• TrashTrack employs cutting-edge technologies to enable real-time monitoring of waste bin levels, ensuring up-to-the-minute data on fill status.<br>
 • This feature facilitates proactive waste management by allowing authorities to allocate resources efficiently based on current demand.
 
 ### Alerts and Notifications:
@@ -20,14 +20,14 @@ TrashTrack is an advanced open-source project designed to revolutionize waste ma
 • The project emphasizes the crucial role of timely waste disposal in minimizing adverse environmental impact.<br>
 • By preventing overflows and optimizing collection schedules, TrashTrack contributes to a cleaner, healthier environment while promoting sustainable waste management practices.
 
-## • Softwares needed:
+### • Softwares needed:
     Arduino IDE: For code logic
     MQTT (Broker):  For communication between devices
     MQTTAnalyzer (App): For receiving notification on mobile
-## • Hardware:
+### • Hardware:
     Esp 32: For real-time sensing
     Ultrasonic sensor: For measuring filled level
-## • Others:
+### • Others:
     Wi-fi: For communication
     Dustbin: For attaching sensor
 
