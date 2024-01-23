@@ -37,7 +37,7 @@ Steps to run this project in your machine:
 2) Add mymosquitto.conf file attached in the following location (C:\Program Files\mosquitto) 
 3) Open MQTTX and create the connection as Trash_Track with the following topics ultrasonic/notification , ultrasonic/distance. Add the port as 1883 and your username, password, host which needs to be updated in the arduino code as well.
 4) Open Windows PowerShell and execute the following command:  C:\Program Files\mosquitto> .\mosquitto.exe -c .\mymosquitto.conf -v
-5) Make changes in the arduino code (tash_track.ino file). Add your wifi name, password, ip address, mqtt username and mqtt password.
+5) Make changes in the arduino code (trash_track.ino file). Add your wifi name, password, ip address, mqtt username and mqtt password.
 6) Make connection of ultrasonic sensor with esp32 as shown in attached image.
 7) Attach the ultrasonic sensor to dustbin covering.
 8) Connect esp32 with laptop and upload the code written in trash_track.ino file.
