@@ -43,4 +43,5 @@ TrashTrack is an advanced open-source project designed to revolutionize waste ma
 8) Connect esp32 with laptop and upload the code written in trash_track.ino file.
 9) Connect the phone with the same wifi where MQTTAnalyzer app is installed. You will receive notification in this app under ultrasonic/notification topic when dustbin is filled more than 75%.
 
+If you encounter any issues, open an issue in the [https://github.com/ravneetzz/Trash-Track/issues](url)
 Feel free to contribute to TrashTrack and join us in creating a cleaner and more sustainable future!
